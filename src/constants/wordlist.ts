@@ -13,7 +13,7 @@ export const WORDS = [
   "'emallk",
   "'ekwak",
   "'ekwas",
-  "'ekwiy",
+  "'ekwiy"
   
   
   
