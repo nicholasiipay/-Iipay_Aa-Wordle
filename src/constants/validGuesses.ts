@@ -1,7 +1,7 @@
 import { CONFIG } from './config'
 
 export const VALIDGUESSES = [
-    'chepak',
+  'chepak',
   'chepap',
   'chepam',
   'nnemii',
