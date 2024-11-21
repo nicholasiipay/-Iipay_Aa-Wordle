@@ -10,7 +10,6 @@ export const WORDS = [
   'wetapx',
   'wemirr',
   "'emaay",
-  "'emallk",
   "'ekwak",
   "'ekwas",
   "'ekwiy",
