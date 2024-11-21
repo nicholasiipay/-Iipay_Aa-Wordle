@@ -8,7 +8,7 @@ export const VALIDGUESSES = [
   'nyemii',
   'chetoo',
   'wetapx',
-  'wemirr'
+  'wemirr',
   "'emaay",
   "'emallk",
   "'ekwak",
