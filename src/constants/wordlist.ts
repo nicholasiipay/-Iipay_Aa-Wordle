@@ -14,7 +14,7 @@ export const WORDS = [
   "'ekwas",
   "'ekwiy",
   "'exink",
-  'saarap'
+  'saarap',
   "'enyaa",
   'muuyuu',
   'maayum',
