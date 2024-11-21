@@ -8,7 +8,7 @@ export const WORDS = [
   'nyemii',
   'chetoo',
   'wetapx',
-  'wemirr'
+  'wemirr',
   "'emaay",
   "'emallk",
   "'ekwak",
