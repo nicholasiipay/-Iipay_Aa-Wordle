@@ -13,7 +13,7 @@ export const VALIDGUESSES = [
   "'emallk",
   "'ekwak",
   "'ekwas",
-  "'ekwiy"
+  "'ekwiy",
 ]
 
 if (CONFIG.normalization) {
