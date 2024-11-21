@@ -14,7 +14,7 @@ export const VALIDGUESSES = [
   "'ekwas",
   "'ekwiy",
   "'exink",
-  'saarap'
+  'saarap',
   "'enyaa",
   'muuyuu',
   'maayum',
