@@ -10,7 +10,6 @@ export const VALIDGUESSES = [
   'wetapx',
   'wemirr',
   "'emaay",
-  "'emallk",
   "'ekwak",
   "'ekwas",
   "'ekwiy",
